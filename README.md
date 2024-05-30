@@ -7,7 +7,8 @@
 - 🎇 Javascript
 - ✨ CSS
 - ☀️ HTML
-- ![image](https://github.com/GregoryAlmeida/GregoryAlmeida/assets/116663966/ae18b81e-eaae-4267-8ba2-daf7d3a777ef) React
+- 🖥️ React
+- 🪶 Tailwind
 <div align="center">
   <a href="https://github.com/GregoryAlmeida">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GregoryAlmeida&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
