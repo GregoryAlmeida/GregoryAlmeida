@@ -4,7 +4,7 @@
 
 ☕ Technologies I use! 🔖
 
-- 🎇 Javascript
+- 🎇 TypeScript
 - ✨ CSS
 - ☀️ HTML
 - 🖥️ React
